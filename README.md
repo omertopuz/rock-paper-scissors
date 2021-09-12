@@ -1,11 +1,13 @@
 # A Web Application that plays Rock, Paper, Scissors against a human
 
 ## Description
-It is a two player game and contains three main components Rock, Paper and Scissors. Each player has these components and simultaneously chooses either Rock, Paper, or Scissors. It has some rules like:
+It is a two player game played according to the rules below:
 
 * Rock beats Scissors but loses to Paper.
 * Paper beats Rock but loses to Scissors.
 * Scissors beats Paper but loses to Rock.
+
+In this application, one of the player is the user of application and the other one is the computer itself.
 
 The project is based on a small web service which uses the following technologies:
 * Java 11
